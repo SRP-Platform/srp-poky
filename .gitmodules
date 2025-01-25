@@ -1,0 +1,6 @@
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "meta-srp-platform"]
+	path = meta-srp-platform
+	url = git@github.com:SRP-Platform/meta-srp-platform.git
